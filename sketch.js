@@ -10,7 +10,7 @@ var bg ;
 var score = 0;
 
 function preload() {
-    // create getBackgroundImg( ) here
+    getBackgroundImg();
 }
 
 function setup(){
